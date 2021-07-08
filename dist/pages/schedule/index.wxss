@@ -1,0 +1,22 @@
+.index__buttonLayout___Et992 {
+  display: grid;
+  grid-gap: 2rem;
+}
+
+.index__button___35Nei {
+  width: 100%;
+}
+
+.index__container___58YNc {
+  padding: 0 4rem 4rem 4rem;
+  min-height: calc(100vh - 4rem);
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}

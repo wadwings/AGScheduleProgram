@@ -1,0 +1,16 @@
+.buttonLayout{
+  display: grid;
+  grid-gap: 2rem;
+}
+
+.button{
+  width: 100%;
+}
+
+.container{
+  padding: 0 4rem 4rem 4rem;
+  min-height: calc(100vh - 4rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
